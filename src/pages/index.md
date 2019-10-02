@@ -18,6 +18,8 @@ description: >-
   anyone.
 intro:
   blurbs:
+    - image: /img/tutorials.png
+      text: 'Este texto es una prueba de creación de contenido!!   '
     - image: /img/coffee.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
@@ -68,3 +70,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
